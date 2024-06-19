@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-popout-freeze-workaround",
+	"version": "0.0.1",
+	"description": "This is a workaround for Obsidian sync users to address Obsidian 1.6.x freezing when closing a popoout window",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
